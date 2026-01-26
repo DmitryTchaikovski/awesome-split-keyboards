@@ -56,6 +56,7 @@
   - [Colosseum](#colosseum)
   - [Ergoinu](#ergoinu)
   - [pskeeb5](#pskeeb5)
+  - [Chunky](#Chunky)
   - [Build your own keyboard (Do it yourself - DIY)](#build-your-own-keyboard-do-it-yourself---diy)
     - [Plates & Cases](#plates--cases)
       - [Laser Cutting](#laser-cutting)
@@ -452,6 +453,21 @@ https://github.com/hsgw/ergoinu
 ## pskeeb5
 
 https://github.com/klesh/pskeeb5
+
+## Chunky
+https://www.reddit.com/r/ErgoMechKeyboards/comments/s6zwpk/chunky_v2_now_with_trackpad_less_janky_and_more/
+https://github.com/freznel10/Chunky2040_rev2
+https://www.reddit.com/r/ErgoMechKeyboards/comments/sbr851/chunky_v3_less_janky_now_with_onboard_mcu_and/
+https://www.reddit.com/r/ErgoMechKeyboards/comments/tats71/chunky_v12_aka_space_control/
+https://www.reddit.com/r/ErgoMechKeyboards/comments/13icgka/chunky_semibudget_build0_3dp_case/
+https://www.reddit.com/r/ErgoMechKeyboards/comments/u8lo0d/chunky_v13_now_with_rgb_oleds/
+https://github.com/freznel10/Zerf9
+
+tenstaana
+
+
+
+
 
 
 ## Build your own keyboard (Do it yourself - DIY)
